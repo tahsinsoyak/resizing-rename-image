@@ -1,0 +1,1 @@
+# resizing-rename-image
